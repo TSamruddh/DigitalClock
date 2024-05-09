@@ -1,6 +1,7 @@
 # Digital Clock
 
 This project is a simple digital clock built using HTML, CSS, and JavaScript. It displays the current time in a digital format and updates every second. This is a great project for learning how to work with dates and times in JavaScript, as well as how to create dynamic web content.
+Live Link : https://tsamruddh.github.io/DigitalClock/
 
 ## Table of Contents
 
